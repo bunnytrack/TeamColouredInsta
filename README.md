@@ -7,7 +7,7 @@ A UT99 mutator which adds team-coloured InstaGib shock rifles to the game
 
 1. Copy `.u` file to `UT/System/`
 2. In `UnrealTournament.ini`, add:  
-   `ServerPackages=TeamColourInsta`
+   `ServerPackages=TeamColourInsta`  
    `ServerActors=TeamColourInsta.TeamColourInsta`
    
 ### Offline (Single Player)
