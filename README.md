@@ -1,5 +1,6 @@
 # TeamColouredInsta
-A UT99 mutator which adds team-coloured InstaGib shock rifles to the game
+A UT99 mutator which adds team-coloured InstaGib shock rifles to the game.  
+Hacked together using methods from packages: Color (a.k.a. ColorMatch) by unknown author, BTInsta/BTPlusPlus by Rush.
 
 ## Installation
 
